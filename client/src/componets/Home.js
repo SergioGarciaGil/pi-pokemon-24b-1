@@ -78,7 +78,7 @@ export default function Home() {
     }
     // function handleClickPrev(e) {
     //     e.preventDefault()
-    //     if (currentPage > 1) { // 
+    //     if (currentPage > 1) { //
     //         setCurrentPage(currentPage - 1) // restamos uno a la pagina actual
     //     }
     // }
